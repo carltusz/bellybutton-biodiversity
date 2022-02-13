@@ -1,0 +1,7 @@
+.jumbotron {
+  background-image: url("../images/scientist.jpg");
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  text-shadow: 2px 2px 10px white;
+}
